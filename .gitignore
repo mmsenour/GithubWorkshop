@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# add file names or anything you want git to ignore when commiting the code each time
